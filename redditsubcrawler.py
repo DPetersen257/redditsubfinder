@@ -4,8 +4,6 @@ import os
 from multiprocessing.pool import ThreadPool as Pool
 import re
 
-print("test")
-
 print("Reading config")
 
 # Read Reddit API credentials from config file
